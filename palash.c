@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
-
-	return 0;
+		printf("Hello!\n");
+	char* string = "Palash Mishra";
+	printf("%s\n", string);
+return 0;
 }
